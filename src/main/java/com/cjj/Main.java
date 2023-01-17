@@ -14,5 +14,6 @@ public class Main {
         System.out.println("2");
         System.out.println("hot-fix");
         System.out.println("pull");
+        System.out.println("pull");
     }
 }
